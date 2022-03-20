@@ -5,6 +5,7 @@ Esta calculadora hace operaciones para numeros de una cifra.
 ## Instrucciones
 
 1º Compilar IDL
+
 2º Compilar server y cliente con las instrucciones:
 idlj -fclient Calc.idl
 idlj -fserver Calc.idl
