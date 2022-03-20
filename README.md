@@ -1,4 +1,4 @@
-# Practica2_distribuidos
+# Practica 2 Programacion de Sistemas Distribuidos
 Repositorio para la 2ª práctica de Sistemas Distribuidos
 
 
