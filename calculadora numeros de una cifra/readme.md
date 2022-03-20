@@ -21,6 +21,7 @@ Si queremos hacer 4 + 5 lo que teclearemos será: +45.
 ## Operaciones
 
 Las principales que estaban en el github eran: suma ( + ), resta ( - ), división ( / ) y  multiplicación ( * ). 
+
 Las añadidas son: comprobar si es par ( % ), elevar a una potencia ( ^ ), hacer el factorial ( ! ) y realizar la raíz cuadrada ( # ).
 
 ### Even 
