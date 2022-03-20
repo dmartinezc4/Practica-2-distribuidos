@@ -27,7 +27,9 @@ Las añadidas son: comprobar si es par ( % ), elevar a una potencia ( ^ ), hacer
 ### Even 
 
 Funcionará cuando uno de los miembros sea 0; Devolviendo 1 si es par y 0 si es impar. (%60  || %07)  <- ejemplos
+
 En caso de poner dos números que no sean 0 se devolverá -1337 que es un número de error. (%68 || %36) 
+
 En caso de que los dos sean 0 mandará un 11 indicando que ambos 0s son par.
 
 ### Power
@@ -36,9 +38,11 @@ El primer número se considerará la base y el siguiente su exponente. Si querem
 
 ### Factorial
 Funcionará cuando uno de los miembros sea 0; devolviendo el resultado del factorial. Si queremos saber el factorial de 7 tenderemos que poner (!70 || !07).
+
 En caso de que uno de los miembros sea 0 se retornará -1337 como resultado de error. (!89 || !54)
 
 ### Square Root
 
 Funcionará cuando uno de los miembros sea 0; devolviendo el resultado de la raíz casteado a entero. Si queremos saber la raíz de 6 tenderemos que poner (#60 || #06).
+
 En caso de que uno de los miembros sea 0 se retornará -1337 como resultado de error. (#12 || #94)
